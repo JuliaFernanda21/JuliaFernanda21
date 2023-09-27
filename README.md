@@ -2,7 +2,7 @@
 <h1 align="center">Olá Mundo, Julia aqui</h1>
 <h3 align="center">Desenvolvedora front-end</h3>
 
-<img src="https://a.imagem.app/bmmBhY.png" align="right" alt="octocat" border="2px" width="450" height="450"/>
+
 
 
 
