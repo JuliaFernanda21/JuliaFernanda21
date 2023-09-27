@@ -7,7 +7,7 @@
 ⚡ Curiosidades: apaixonada por tecnologia
 
 
-Minhas redes sociais
+Minhas redes sociais:
 ![instagram](https://github.com/JuliaFernanda21/JuliaFernanda21/assets/132109453/e31bdc01-5311-4f34-bc21-b9dbbf77c8dc)<?xml version="1.0" encoding="iso-8859-1"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -111,4 +111,3 @@ Minhas redes sociais
 <g>
 </g>
 </svg>
-loading lhttp://linkedin.com/in/julia-ferreira-13b005234
