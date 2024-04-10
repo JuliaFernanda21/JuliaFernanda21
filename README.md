@@ -5,7 +5,7 @@
 
 👨‍💻 Estou procurando o meu primeiro estágio na área!
 
-🌱 Atualmente estou aprendendo C e C#
+🌱 Atualmente estou aprendendo Java e Dart
 
 📫 E-mail para contato: juliafernanda210504@gmail.com
 
